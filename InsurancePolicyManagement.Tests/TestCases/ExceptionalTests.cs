@@ -28,7 +28,7 @@ namespace InsurancePolicyManagement.Tests.TestCases
         private readonly InsurancePolicy _insurancePolicy;
         private readonly InsurancePolicyViewModel _insurancePolicyViewModel;
 
-        private static string type = "Boundary";
+        private static string type = "Exception";
 
         public ExceptionalTests(ITestOutputHelper output)
         {
